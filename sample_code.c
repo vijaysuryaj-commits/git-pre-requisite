@@ -4,7 +4,7 @@ int main() {
     int num1, num2,num3, sum;
 
     // Print a message
-    printf("Hello, World!\n");
+    printf("Sum of three numbers\n");
 
     // Ask user for three numbers
     printf("Enter first number: ");
